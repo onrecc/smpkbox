@@ -1,1 +1,9 @@
-
+on mine of wood:
+    chance of 0.005%:
+        execute console command "/crate key give {player} mine 1"
+on mine of stone or iron or gold or diamond:
+    chance of 0.0067%:
+        execute console command "/crate key give {player} mine 1"
+on mine of netherite:
+    chance of 0.005%:
+        execute console command "/crate key give {player} mine 1"
